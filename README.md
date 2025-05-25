@@ -289,3 +289,4 @@ target_link_libraries(solver PRIVATE
 └─$ ls
 CMakeCache.txt  CMakeFiles  cmake_install.cmake  Makefile  solver
 ```
+Выгрузил проект в данный репозиторий и изменил README.md
