@@ -21,7 +21,11 @@ git version 2.45.2
 ```
 ┌──(danil㉿danil)-[~/lab03/formatter_lib]
 └─$ nano CmakeLists.txt
+```
+
 CMakeLists.txt
+
+```
 cmake_minimum_required(VERSION 3.10)
 project(formatter_lib)
 
